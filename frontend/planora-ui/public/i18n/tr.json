@@ -1,0 +1,20 @@
+{
+  "app": {
+    "name": "Planora"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "plans": "Planlar",
+    "goals": "Hedefler"
+  },
+  "dashboard": {
+    "title": "Planora Dashboard",
+    "todayPlans": "Bugünkü Planlar",
+    "completed": "Tamamlananlar",
+    "weeklyProgress": "Haftalık İlerleme"
+  },
+  "language": {
+    "turkish": "Türkçe",
+    "english": "İngilizce"
+  }
+}
